@@ -1,0 +1,3 @@
+- 👋 Hi, I’m a new coder
+- 👀 I’m interested in python, js, react, html, css ...
+- 🌱 I’m currently learning c, html, css
